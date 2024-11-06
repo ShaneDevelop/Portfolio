@@ -1,0 +1,247 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    background-color: #F0F2F5;
+    font-family: 'Bricolage Grotesque';
+}
+@media screen and (min-width: 1024px) {
+    #Home {
+        font-family: 'Bricolage Grotesque';
+        font-size: 1.3rem;
+        display: flex;
+        width: 7vw;
+        height: 2.5vh;
+        background-color: #F0F2F5;
+        border-radius: 12px;
+        position: absolute;
+        top: 2.5vh;
+        left: 22vw;
+    }
+    .Nav {
+        width: 80vw;
+        height: 7.5vh;
+        background-color: white;
+        border-radius: 12px;
+        position: absolute;
+        left: 8vw;
+        top: 3.5vh;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        
+    }
+    #Text-Home {
+        position: absolute;
+        top: 25%;
+        left: 40%;
+        color: black;
+        
+    }
+    #Emoji-Home {
+        position: absolute;
+        top: 15%;
+        left: 15%;
+        color: black;
+    }
+
+    #About {
+        font-family: 'Bricolage Grotesque';
+        font-size: 1.3rem;
+        position: absolute;
+        top: 2.90vh;
+        left: 32vw;
+    }
+    #Text-About {
+        position: absolute;
+        top: 0.05vw;
+        left: 0.25vw;
+        color: #576076;
+        
+    }
+    #Emoji-About {
+        position: absolute;
+        top: 15%;
+        left: -1vw;
+        color: #576076;
+    }
+
+    #Services {
+        font-family: 'Bricolage Grotesque';
+        font-size: 1.3rem;
+        position: absolute;
+        top: 2.90vh;
+        left: 38vw;
+    }
+    #Text-Services {
+        position: absolute;
+        top: 0.05vw;
+        left: 0.25vw;
+        color: #576076;
+        
+    }
+    #Emoji-Services {
+        position: absolute;
+        top: 15%;
+        left: -1vw;
+        color: #576076;
+    }
+
+
+
+
+    #Works {
+        font-family: 'Bricolage Grotesque';
+        font-size: 1.3rem;
+        position: absolute;
+        top: 2.90vh;
+        left: 44.5vw;
+    }
+    #Text-Works {
+        position: absolute;
+        top: 0.05vw;
+        left: 0vw;
+        color: #576076;
+        
+    }
+    #Emoji-Works {
+        position: absolute;
+        top: 15%;
+        left: -1vw;
+        color: #576076;
+    }
+
+
+
+    #Contact {
+        font-family: 'Bricolage Grotesque';
+        font-size: 1.3rem;
+        position: absolute;
+        top: 2.90vh;
+        left: 50vw;
+    }
+    #Text-Contact {
+        position: absolute;
+        top: 0.05vw;
+        left: 0.25vw;
+        color: #576076;
+        
+    }
+    #Emoji-Contact {
+        position: absolute;
+        top: 15%;
+        left: -1vw;
+        color: #576076;
+    }
+    #Contact-2 {
+        background-color: black;
+        color: white;
+        border-radius: 12px;
+        border: none;
+        width: 7.5vw;
+        height: 4vh;
+        position: absolute;
+        right: 3%;
+        top: 25.5%;
+        font-size: 1.3rem;
+    }
+    .Welcome {
+        position: absolute;
+        background-color: #ffffff;
+        width: 20vw;
+        height: 27.5vh;
+        border-radius: 12px;
+        top: 13vh;
+        left: 8vw;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    #Hello {
+        font-size: 2.5rem;
+        width: 350px;
+        position: absolute;
+        top: 10%;
+        left: 5%;
+    }
+    #Bold {
+        font-weight: 600;
+        
+    }
+    #About-2 {
+        font-size: 1.75rem;
+        width: 350px;
+        position: absolute;
+        top: 12.5vh;
+        left: 5%;
+    }
+    #ContactMe {
+        background-color: black;
+        color: white;
+        font-size: 1.25rem;
+        border: none;
+        border-radius: 12px;
+        width: 6vw;
+        height: 4vh;
+        position: absolute;
+        top: 20vh;
+        left: 5%;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    }
+    #MoreAbout {
+        background-color: #F0F2F5;
+        color: black;
+        font-size: 1.25rem;
+        border: none;
+        border-radius: 12px;
+        width: 6vw;
+        height: 4vh;
+        position: absolute;
+        top: 20vh;
+        left: 40%;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    }
+}
