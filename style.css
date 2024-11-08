@@ -53,10 +53,10 @@ body {
 @media screen and (min-width: 1024px) {
     #Home {
         font-family: 'Bricolage Grotesque';
-        font-size: 1.3rem;
+        font-size: 1.9vh;
         display: flex;
         width: 7vw;
-        height: 2.5vh;
+        height: 3vh;
         background-color: #F0F2F5;
         border-radius: 12px;
         position: absolute;
@@ -76,7 +76,7 @@ body {
     }
     #Text-Home {
         position: absolute;
-        top: 25%;
+        top: 20%;
         left: 40%;
         color: black;
         
@@ -90,14 +90,13 @@ body {
 
     #About {
         font-family: 'Bricolage Grotesque';
-        font-size: 1.3rem;
+        font-size: 1.9vh;
         position: absolute;
         top: 2.90vh;
         left: 32vw;
     }
     #Text-About {
         position: absolute;
-        top: 0.05vw;
         left: 0.25vw;
         color: #576076;
         
@@ -111,15 +110,14 @@ body {
 
     #Services {
         font-family: 'Bricolage Grotesque';
-        font-size: 1.3rem;
+        font-size: 1.9vh;
         position: absolute;
         top: 2.90vh;
         left: 38vw;
     }
     #Text-Services {
         position: absolute;
-        top: 0.05vw;
-        left: 0.25vw;
+        left: 0.35vw;
         color: #576076;
         
     }
@@ -129,20 +127,89 @@ body {
         left: -1vw;
         color: #576076;
     }
+    .Expertise {
+        background-color: white;
+        position: absolute;
+        width: 32vw;
+        height: 40.5vh;
+        border-radius: 12px;
+        top: 13vh;
+        left: 30vw;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
+    }
+    #Expretise {
+        color: black;
+        font-family: 'Bricolage Grotesque';
+        font-size: 3.5vh;
+        width: 350px;
+        position: absolute;
+        top: 5%;
+        left: 3%;
+
+    }
+
+    #Projects {
+        color: black;
+        font-family: 'Bricolage Grotesque';
+        font-size: 3.5vh;
+        width: 350px;
+        position: absolute;
+        top: 4%;
+        left: 3%;
+
+    }
+    #Services-2 {
+        color: black;
+        font-family: 'Bricolage Grotesque';
+        font-size: 3.5vh;
+        width: 350px;
+        position: absolute;
+        top: 10%;
+        left: 2%;
+
+
+    }
+    #Github {
+        color: #58C5C5;
+        position: absolute;
+        top: 6.5%;
+        right: 5%;
+        font-size: 2.5vh;
+    }
+    .Projects {
+        background-color: white;
+        position: absolute;
+        width: 22.5vw;
+        height: 50.5vh;
+        border-radius: 12px;
+        top: 13vh;
+        left: 65.5vw;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    }
+    .Services {
+        background-color: white;
+        position: absolute;
+        width: 80.5vw;
+        height: 27vh;
+        border-radius: 12px;
+        top: 70vh;
+        left: 7.5vw;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
 
 
 
     #Works {
         font-family: 'Bricolage Grotesque';
-        font-size: 1.3rem;
+        font-size: 1.9vh;
         position: absolute;
         top: 2.90vh;
         left: 44.5vw;
     }
     #Text-Works {
         position: absolute;
-        top: 0.05vw;
         left: 0vw;
         color: #576076;
         
@@ -158,14 +225,13 @@ body {
 
     #Contact {
         font-family: 'Bricolage Grotesque';
-        font-size: 1.3rem;
+        font-size: 1.9vh;
         position: absolute;
         top: 2.90vh;
         left: 50vw;
     }
     #Text-Contact {
         position: absolute;
-        top: 0.05vw;
         left: 0.25vw;
         color: #576076;
         
@@ -199,7 +265,7 @@ body {
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     }
     #Hello {
-        font-size: 2.5rem;
+        font-size: 3.5vh;
         width: 350px;
         position: absolute;
         top: 10%;
@@ -210,7 +276,7 @@ body {
         
     }
     #About-2 {
-        font-size: 1.75rem;
+        font-size: 2.5vh;
         width: 350px;
         position: absolute;
         top: 12.5vh;
@@ -219,7 +285,7 @@ body {
     #ContactMe {
         background-color: black;
         color: white;
-        font-size: 1.25rem;
+        font-size: 1.9vh;
         border: none;
         border-radius: 12px;
         width: 6vw;
@@ -233,7 +299,7 @@ body {
     #MoreAbout {
         background-color: #F0F2F5;
         color: black;
-        font-size: 1.25rem;
+        font-size: 1.9vh;
         border: none;
         border-radius: 12px;
         width: 6vw;
