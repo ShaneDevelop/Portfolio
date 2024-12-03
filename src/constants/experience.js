@@ -45,7 +45,7 @@ export const exp3 = [
 
 export const exp4 = [
   {
-    title: "Meridian Tech (High School).",
+    title: "Meridian Tech (School).",
     designation: "Student / Web Designer & Developer",
     description: [
       "Taught me advanced web development techniques and best practices.",
@@ -70,6 +70,6 @@ description: [
 
     link: "https://www.strikezonebattingcages.com/",
     date: "Nov 2024",
-    imageItem: "/assets/SZBC.png",
+    imageItem: "/assets/szbc.png",
   },
 ];
