@@ -1,6 +1,6 @@
 export const exp1 = [
   {
-    title: "Code Ninjas",
+    title: "Code Ninjas (School)",
     designation: "Student / Game Developer",
     description: [
       "At Code Ninjas, I am learning coding through hands-on projects and real-world applications, focusing on languages like JavaScript and Python.",
@@ -15,7 +15,7 @@ export const exp1 = [
 
 export const exp2 = [
   {
-    title: "Rainbow Ice.",
+    title: "Rainbow Ice (Job)",
     designation: "Employee",
     description: [
       "Served snowcones to customers in a fast-paced environment.",
@@ -30,7 +30,7 @@ export const exp2 = [
 
 export const exp3 = [
   {
-    title: "Function.Create",
+    title: "Function.Create (Group)",
     designation: "Founder",
     description: [
       "Designed and developed custom platforms for clients, focusing on their specific needs.",
@@ -45,7 +45,7 @@ export const exp3 = [
 
 export const exp4 = [
   {
-    title: "MTCHS.",
+    title: "Meridian Tech Charter (High School).",
     designation: "Student / Web Designer & Developer",
     description: [
       "Taught me advanced web development techniques and best practices.",
@@ -60,7 +60,7 @@ export const exp4 = [
 
 export const exp5 = [
   {
-    title: "Strike Zone (ID)",
+    title: "Strike Zone ()",
     designation: "Co-Founder / Developer / Designer / Maintainer ",
 description: [
   "Co-owned and managed the StrikeZone Batting Cages platform in Idaho, overseeing daily operations.",
