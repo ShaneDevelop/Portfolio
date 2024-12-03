@@ -15,7 +15,7 @@ export const exp1 = [
 
 export const exp2 = [
   {
-    title: "Rainbow Ice Snowcones.",
+    title: "Rainbow Ice.",
     designation: "Employee",
     description: [
       "Served Snowcones to customers.",
@@ -30,7 +30,7 @@ export const exp2 = [
 
 export const exp3 = [
   {
-    title: "Function().Create",
+    title: "Function.Create",
     designation: "Founder",
     description: [
       "Developed platforms for customers.",
@@ -45,14 +45,14 @@ export const exp3 = [
 
 export const exp4 = [
   {
-    title: "Meridian Technical Charter High School.",
+    title: "MTCHS.",
     designation: "Student / Web Designer & Developer",
     description: [
       "Helped me learn more about Web Development.",
       "Helped me learn more about how to design for UI/UX.",
       "Helped me learn more about coding and got me into more about coding.",
     ],
-    link: "#ShutDown",
+    link: "https://mtchs.org",
     date: "Aug 2022",
     imageItem: "/assets/github-dark.svg",
   },
@@ -60,7 +60,7 @@ export const exp4 = [
 
 export const exp5 = [
   {
-    title: "Strike Zone Battnig Cages",
+    title: "Strike Zone (ID)",
     designation: "Co-Founder / Developer / Designer / Maintainer ",
     description: [
       "Developed full website with time constraints.",
