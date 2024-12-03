@@ -8,7 +8,7 @@ export const exp1 = [
       "Showed me the school I go to..",
     ],
     link: "https://codeninjas.com",
-    date: "Summer 2019",
+    date: "Jul 2019",
     imageItem: "/assets/github-dark.svg",
   },
 ];
@@ -23,7 +23,7 @@ export const exp2 = [
       "Had to deal with range of customers.",
     ],
     link: "#RainbowIce",
-    date: "Summer 2022",
+    date: "Jun 2022",
     imageItem: "/assets/github-dark.svg",
   },
 ];
