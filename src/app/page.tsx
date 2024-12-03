@@ -28,9 +28,6 @@ export default function Home() {
         <div className="max-lg:ml-7 max-lg:mr-7">
           <Skills />
         </div>
-        <div className="max-lg:ml-7 max-lg:mr-7 mb-20 py-20">
-          <Creations />
-        </div>
         <div className="mt-20 py-20">
           <Contact />
         </div>
