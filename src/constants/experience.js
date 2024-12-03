@@ -9,7 +9,7 @@ export const exp1 = [
     ],
     link: "https://codeninjas.com",
     date: "Jul 2019",
-    imageItem: "/assets/github-dark.svg",
+    imageItem: "/assets/code-ninjas.png",
   },
 ];
 
@@ -24,7 +24,7 @@ export const exp2 = [
     ],
     link: "#RainbowIce",
     date: "Jun 2022",
-    imageItem: "/assets/github-dark.svg",
+    imageItem: "/assets/rainbow-snow.png",
   },
 ];
 
@@ -39,7 +39,7 @@ export const exp3 = [
     ],
     link: "#FunctionCreate",
     date: "Jan 2022",
-    imageItem: "/assets/github-dark.svg",
+    imageItem: "/assets/functioncreate.png",
   },
 ];
 
@@ -54,7 +54,7 @@ export const exp4 = [
     ],
     link: "https://mtchs.org",
     date: "Aug 2022",
-    imageItem: "/assets/github-dark.svg",
+    imageItem: "/assets/mtchs-logo.png",
   },
 ];
 
@@ -70,6 +70,6 @@ description: [
 
     link: "https://www.strikezonebattingcages.com/",
     date: "Nov 2024",
-    imageItem: "/assets/github-dark.svg",
+    imageItem: "/assets/SZBC.png",
   },
 ];
