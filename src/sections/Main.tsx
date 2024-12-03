@@ -9,7 +9,7 @@ const Main = () => {
     <section className="container mx-auto min-h-screen flex flex-col lg:flex-row items-center justify-center py-12 px-4 sm:px-6 lg:px-8 gap-12 lg:gap-16" id="main">
       <div className="w-full lg:w-1/2 space-y-6 md:space-y-8 text-center lg:text-left">
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          I&apos;m <span className="text-[#8B7FD3]">Portfolio</span> Web
+          I&apos;m <span className="text-[#8B7FD3]">Shane</span> Web
         </h1>
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-gray-700">
           Developer & Designer.
