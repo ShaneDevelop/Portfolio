@@ -77,5 +77,5 @@ export const projects = [
 ];
 
 export const moreProjects = {
-  url: "https://github.com/YOURNAMEHERE",
+  url: "https://github.com/ShaneDevelops",
 };
