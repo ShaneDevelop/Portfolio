@@ -57,7 +57,7 @@ export const projects = [
     link: "https://shanewolford.com",
     title: "My Personal Portfolio",
     content:
-      "I built a portfolio app using Next.js, Tailwind CSS, and JavaScript to showcase my skills and experiences. It features various projects I’ve worked on, highlights my technical expertise, and provides an easy way for potential clients or collaborators to get in touch with me.",
+      "I built a portfolio app using Next.js, Tailwind, and JavaScript to showcase my skills and experience. It features various projects I’ve worked on, highlights my technical expertise, and provides an easy way for potential clients or collaborators to get in touch with me.",
     projects: project1,
   },
   {
