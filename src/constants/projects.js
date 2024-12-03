@@ -2,7 +2,7 @@ const project1 = [
   {
     id: 1,
     name: "Next JS",
-    image: "/assets/next-js.svg",
+    image: "/assets/nextjs.svg",
   },
   {
     id: 2,
