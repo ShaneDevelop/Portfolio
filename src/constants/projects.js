@@ -57,7 +57,14 @@ export const projects = [
     link: "https://shanewolford.com",
     title: "My Personal Portfolio",
     content:
-      "I built a task management app using Next.js, Tailwind CSS, and JavaScript. It features responsive design, real-time updates, and seamless functionality, showcasing my skills in modern frameworks and intuitive design.",
+      "I built a task management app using Next.js, Tailwind CSS, and JavaScript to enhance productivity. It features responsive design, real-time updates, and seamless functionality, showcasing my skills in modern frameworks and creating intuitive, high-performance applications for users.
+
+
+
+
+
+
+",
     projects: project1,
   },
   {
