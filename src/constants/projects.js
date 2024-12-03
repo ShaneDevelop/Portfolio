@@ -47,8 +47,8 @@ const project3 = [
   },
   {
     id: 3,
-    name: "JavaScript",
-    image: "/assets/javascript.svg",
+    name: "Node.JS",
+    image: "/assets/node-js.svg",
   },
 ];
 
@@ -57,7 +57,7 @@ export const projects = [
     link: "https://shanewolford.com",
     title: "My Personal Portfolio",
     content:
-      "I built a task management app using Next.js, Tailwind CSS, and JavaScript to enhance productivity. It features responsive design, real-time updates, and seamless functionality, showcasing my skills in modern frameworks and creating intuitive, high-performance applications for users.",
+      "I built a portfolio app using Next.js, Tailwind CSS, and JavaScript to showcase my skills and experiences. It features various projects I’ve worked on, highlights my technical expertise, and provides an easy way for potential clients or collaborators to get in touch with me."
     projects: project1,
   },
   {
