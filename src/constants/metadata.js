@@ -1,4 +1,4 @@
 export const metaData = {
-  title: "Frosty's Portfolio",
-  description: "Website built using Next JS and Tailwind CSS",
+  title: "Shane's Portfolio",
+  description: "Built using Next.JS, Tailwind CSS and Javascript.",
 };
