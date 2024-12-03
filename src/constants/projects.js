@@ -30,7 +30,7 @@ const project2 = [
   {
     id: 3,
     name: "Javascript",
-    image: "/assets/html.svg",
+    image: "/assets/javascript.svg",
   },
 ];
 
