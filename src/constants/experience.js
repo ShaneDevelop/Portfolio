@@ -45,7 +45,7 @@ export const exp3 = [
 
 export const exp4 = [
   {
-    title: "Meridian Tech Charter (High School).",
+    title: "Meridian Tech (High School).",
     designation: "Student / Web Designer & Developer",
     description: [
       "Taught me advanced web development techniques and best practices.",
@@ -60,7 +60,7 @@ export const exp4 = [
 
 export const exp5 = [
   {
-    title: "Strike Zone ()",
+    title: "Strike Zone (Job)",
     designation: "Co-Founder / Developer / Designer / Maintainer ",
 description: [
   "Co-owned and managed the StrikeZone Batting Cages platform in Idaho, overseeing daily operations.",
