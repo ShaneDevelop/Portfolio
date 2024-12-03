@@ -1,8 +1,8 @@
 const project1 = [
   {
     id: 1,
-    name: "Appwrite",
-    image: "/assets/appwrite.png",
+    name: "Next JS",
+    image: "/assets/next-js.svg",
   },
   {
     id: 2,
@@ -11,16 +11,16 @@ const project1 = [
   },
   {
     id: 3,
-    name: "Next JS",
-    image: "/assets/nextjs.svg",
+    name: "Javascript",
+    image: "/assets/javascript.svg",
   },
 ];
 
 const project2 = [
   {
     id: 1,
-    name: "JavaScript",
-    image: "/assets/javascript.svg",
+    name: "HTML",
+    image: "/assets/html.svg",
   },
   {
     id: 2,
@@ -29,8 +29,8 @@ const project2 = [
   },
   {
     id: 3,
-    name: "MapBox GL",
-    image: "/assets/map-box.svg",
+    name: "Javascript",
+    image: "/assets/html.svg",
   },
 ];
 
@@ -54,24 +54,24 @@ const project3 = [
 
 export const projects = [
   {
-    link: "https://github.com/PROJECT",
-    title: "Placeholder project 1",
+    link: "https://shanewolford.com",
+    title: "My Personal Portfolio",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac eros at turpis tincidunt scelerisque ac eget turpis. Sed tempor dui sit amet erat tincidunt, ac interdum ante aliquet.",
+      "I built a task management app using Next.js, Tailwind CSS, and JavaScript. It features responsive design, real-time updates, and seamless functionality, showcasing my skills in modern frameworks and intuitive design.",
     projects: project1,
   },
   {
-    link: "https://github.com/PROJECT",
-    title: "Placeholder project 2",
+    link: "https://strikezonebattingcages.com",
+    title: "Strike Zone Batting Cages",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur imperdiet justo felis, et ullamcorper augue fermentum ac. Aenean suscipit enim non tortor vestibulum, vel varius arcu vehicula.",
+      "I developed the Strike Zone Batting Cages project, including booking functionality, a main website, ad design, and ongoing maintenance. Built with HTML, Tailwind CSS, and JavaScript, it showcases my ability to deliver user-focused and versatile solutions.",
     projects: project2,
   },
   {
-    link: "https://github.com/PROJECT",
-    title: "Personal Portfolio",
+    link: "https://mixee.org",
+    title: "Mixee, Spotify API",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat tortor leo, sit amet auctor felis efficitur a. Curabitur sit amet eros ut velit pretium vehicula sit amet a nulla.",
+      "I built Mixee, a platform that uses the Spotify and OpenAI APIs to create the perfect playlist tailored to your taste. Built with HTML, Tailwind CSS, JavaScript, and Node.js, it showcases my skills in integrating multiple APIs and delivering personalized user experiences.",
     projects: project3,
   },
 ];
