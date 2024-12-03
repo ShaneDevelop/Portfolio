@@ -1,78 +1,45 @@
 export const exp1 = [
   {
-    title: "Company",
-    designation: "lorem ipsum",
+    title: "Rainbow Ice Snowcones.",
+    designation: "Employee",
     description: [
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Served Snowcones to customers.",
+      "Built Custmoer Service Skills.",
+      "Had to deal with range of customers.",
     ],
-    link: "https://website.com",
-    date: "Jan 2024",
+    link: "#RainbowIce",
+    date: "July-Sep 2022",
     imageItem: "/assets/github-dark.svg",
   },
 ];
 
 export const exp2 = [
   {
-    title: "Company",
-    designation: "lorem ipsum",
+    title: "Function().Create",
+    designation: "Founder",
     description: [
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Developed platforms for customers.",
+      "Designed UI/UX designs for customers.",
+      "Built up even more customer service skills.",
     ],
-    link: "https://website.com",
-    date: "Jan-Jun 2024",
+    link: "#FunctionCreate",
+    date: "Jan 2022",
     imageItem: "/assets/github-dark.svg",
   },
 ];
+
 
 export const exp3 = [
   {
-    title: "Company",
-    designation: "lorem ipsum",
+    title: "Strike Zone Battnig Cages",
+    designation: "Co-Founder / Developer / Designer / Maintainer ",
     description: [
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Developed full website with time constraints.",
+      "Developed full waiver system with cookie storing.",
+      "Did ad design / UI/UX design for it.",
     ],
-    link: "https://website.com",
-    date: "Dec-Jan 2023",
-    imageItem: "/assets/github-dark.svg",
-  },
-];
-
-export const exp4 = [
-  {
-    title: "Company",
-    designation: "lorem ipsum",
-    description: [
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    ],
-    link: "https://website.com",
-    date: "Jan-Jun 2023",
-    imageItem: "/assets/github-dark.svg",
-  },
-];
-
-export const exp5 = [
-  {
-    title: "Company",
-    designation: "lorem ipsum",
-    description: [
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    ],
-    link: "https://www.website.com/",
-    date: "Mar-Jun 2023",
+    link: "https://www.strikezonebattingcages.com/",
+    date: "Nov-Dec 2024",
     imageItem: "/assets/github-dark.svg",
   },
 ];
